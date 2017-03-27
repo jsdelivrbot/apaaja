@@ -1,0 +1,13 @@
+nih ambil kode safelink lo serah lo mau lo tambain apa di situ yang jelas jangan lo ganti backgrooun nya dari [tema] pakek gadget backround aja
+biar safelink nya ngak mati 
+||||||||||||||||||||||||||||||||||||||||
+safelink by reidho seki in wibubatch.cf
+||||||||||||||||||||||||||||||||||||||||
+taruh di bawah kode </body> atau taruh di tata letak >> tamabah kan gadget >> html/java scrip 
+
+kode: 
+<script type="text/javascript" src="https://rawgit.com/reidhoseki/Safe-lg/master/safelgnime.js"></script>
+<script type="text/javascript">
+protected_links = "www.wibubatch.cf,www.lgnime.com"; 
+auto_safelink();
+</script>
