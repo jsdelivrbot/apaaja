@@ -1,8 +1,8 @@
 
-scrip by reidho seki ruabh https://rawgit.com/reidhoseki/Wibubatch/master/wibungesafe.js dengan KODE CRIP kamu !
+scrip by reidho seki ruabh https://cdn.jsdelivr.net/gh/reidhoseki/Wibubatch@master/wibungesafe.js dengan KODE CRIP kamu !
 
 
-<script type="text/javascript" src="https://rawgit.com/reidhoseki/Wibubatch/master/wibungesafe.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/reidhoseki/Wibubatch@master/wibungesafe.js"></script>
 <script type="text/javascript">
 protected_links = "www.wibubatch.cf,http://iqbaldwi-tkj.blogspot.co.id/,www.insoftbu.ml,www.lgnime.com,http://www.animerz.com/,facebook.com"; // Unprotect Domain
 auto_safelink();
